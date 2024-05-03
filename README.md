@@ -31,6 +31,8 @@ Your `encore.app` file should look like this:
 }
 ```
 
+
+
 4. Run your Encore application (keep it running):
 
 ```bash
